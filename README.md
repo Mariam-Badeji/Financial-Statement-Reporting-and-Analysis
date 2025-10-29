@@ -11,11 +11,14 @@ Together, these tables provide a comprehensive view of FinBudg’s financial hea
 
 Insights and recommendations are provided on the following key areas:
 - **Financial Overview and Performance:** Analysed the profitability of the company and comparing expenses based on accounts and classifications of the accounts
-- **Revenue Analysis:** Compared the actual revenue made by the company vs the budgeted revenue based on clients and accounts
-- **Expense Analysis:** Compared the actual expense made by the company vs the budgeted expense based on clients and accounts
+- **Revenue Analysis:** Compares the actual revenue made by the company vs the budgeted revenue based on clients and accounts
+- **Expense Analysis:** Compares the actual expense made by the company vs the budgeted expense based on clients and accounts
 - **Transaction Analysis:** 
  ## Data Modeling and Structure
+ 
  <img width="1460" height="1030" alt="Finance model" src="https://github.com/user-attachments/assets/6198d341-e686-413f-8af4-faff1e98ba09" />
  
  ## Execuive Summary
+ ### Overview of Findings
+ 
  ## Recommendations
