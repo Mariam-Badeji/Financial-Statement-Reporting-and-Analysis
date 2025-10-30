@@ -34,7 +34,11 @@ Overall, the company recorded more spending activity than income, with 1,003 exp
  <img width="527" height="498" alt="overview 2" src="https://github.com/user-attachments/assets/b34453ab-740f-47cc-a383-d13780c38ec7" />
 
 ### Financial Overview and Performance
-- Net profit
+- Net profit (or in this case, loss) was recorded in 2022 ($385,200) and 2023 ($1,363,200), while by 2024, FinBudg achieved a turnaround, generating a profit of $299,900.
+- Based on the monthly analysis, the actual net profit often exceeded the budgeted net profit. At first glance, this might suggest strong monthly performance; however, that’s not entirely the case. Taking 2023 as an example, although the actual net profit surpassed the budgeted figures, the company still recorded losses in every month, with the highest loss occurring in January ($185,780).
+
+<img width="1352" height="866" alt="perform fin" src="https://github.com/user-attachments/assets/1520f7bd-972e-4bb2-a7b3-3141586d8be7" />
+
 ### Revenue Analysis
 - There is a clear upward trend in revenue, with noticeable peaks typically occurring toward the end of the year, particularly in November and December. Overall,   revenue has shown consistent growth from 2022 to 2024, with actual revenue frequently surpassing the budgeted amounts, even if only by slight margins. Both the budgeted and actual revenue tend to move closely together, with actual revenue exceeding projections in specific months such as April 2023, July 2023, June 2024, July 2024, and October 2024.
 Notably, June and July appear to mark periods of strong seasonal performance, with momentum often building through the year and reaching its highest levels by December.
@@ -61,6 +65,15 @@ Notably, June and July appear to mark periods of strong seasonal performance, wi
 <img width="1341" height="853" alt="transc" src="https://github.com/user-attachments/assets/ed495fca-8387-4f1b-9c82-0d6da2c2b21d" />
 
 ## Recommendation
+While FinBudg has shown gradual revenue growth and achieved profitability in 2024, the company’s financial performance reveals inconsistencies in expense management and profit stability. The frequent instances where expenses outweighed revenue, particularly in 2022 and 2023, suggest a need for tighter cost control measures and improved budgeting accuracy.
+
+To sustain profitability and build on the gains seen in 2024, FinBudg should:
+- Review and streamline high-cost areas, especially within General & Administration and Payroll-related expenses, which were major contributors to spending spikes.
+- Implement periodic budget variance analyses to identify deviations early and take corrective action.
+- Leverage seasonality trends—notably the strong performance between June and December—to plan targeted revenue campaigns and manage cash flow during slower months.
+- Continue using data-driven financial monitoring tools (such as Power BI dashboards) to track performance and inform decision-making.
+By focusing on cost optimization, strategic budgeting, and data-informed planning, FinBudg can maintain consistent profitability and strengthen its financial resilience over time.
+
 <img width="1676" height="938" alt="Finance DB 1" src="https://github.com/user-attachments/assets/b2f37c52-9224-40b2-8775-b2a08c8657f7" />
 
 <img width="1673" height="933" alt="Finance DB 2" src="https://github.com/user-attachments/assets/c5bef91f-75d3-4f27-a185-1cd96c36dc8b" />
