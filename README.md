@@ -10,9 +10,9 @@ Data provided for analysis was grouped into three main sheets:
 Together, these tables provide a comprehensive view of FinBudg’s financial health — enabling analysis of how actual results compare with budgeted expectations, and offering insights into revenue performance, expense management, and overall profitability.
 
 Insights and recommendations are provided on the following key areas:
-- **Financial Overview and Performance:** Analysed the profitability of the company and comparing expenses based on accounts and classifications of the accounts
-- **Revenue Analysis:** Compares the actual revenue made by the company vs the budgeted revenue based on clients and accounts
-- **Expense Analysis:** Compares the actual expense made by the company vs the budgeted expense based on clients and accounts
+- **Financial Overview and Performance:** Analyzed the company’s profitability by comparing expenses across different accounts and account classifications
+- **Revenue Analysis:** Compares actual revenue earned by the company with the budgeted revenue, analyzed across different clients and account categories
+- **Expense Analysis:** Compares actual expense earned by the company with the budgeted expense, analyzed across different clients and account categories
 - **Transaction Analysis:** 
  ## Data Modeling and Structure
  The 
