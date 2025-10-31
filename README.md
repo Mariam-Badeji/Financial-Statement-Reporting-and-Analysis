@@ -2,7 +2,7 @@
  ## Background and Overview
 FinBurg is a Software-as-a-Service (SaaS) company founded in 2022, providing innovative software solutions to clients seeking digital services that enhance efficiency and business performance.
 
-The company has significant information on the transactions of the firm, budgets made for each year from 2022 - 2024 and the accounts they deal with. Together, these tables provide a comprehensive view of FinBudg’s financial health — enabling analysis of how actual results compare with budgeted expectations, and offering insights into revenue performance, expense management, and overall profitability.
+The company has significant information on the transactions of the firm, budgets made for each year from 2022 - 2024 and the accounts they deal with. Explored the data to provide actionable insights.
 
 Insights and recommendations are provided on the following key areas:
 - **Financial Overview and Performance:** Analyzed the company’s profitability by comparing expenses across different accounts and account classifications
@@ -17,12 +17,12 @@ An interactive Power BI dashboard can be viewed here: https://app.powerbi.com/gr
 - **Transactions:** This table records the actual financial activities of the company — including the amount spent (expenses) and the amount earned (revenue). It shows each account’s real performance over time.
 - **Budget:** This sheet outlines the monthly budgeted amounts for each account, both for revenue and expenses. It serves as the company’s financial plan, allowing comparison with actual performance to determine variances.
 - **Accounts:** This table provides descriptive information about each account — essentially explaining what each account represents within FinBudg’s financial system. It categorizes the accounts into revenue and expense groups, helping to understand where money is coming from and where it’s going.
+
+Together, these tables provide a comprehensive view of FinBudg’s financial health — enabling analysis of how actual results compare with budgeted expectations, and offering insights into revenue performance, expense management, and overall profitability.
  ### Tools Used:
  - Power BI: For building interactive dashboard and data modeling with DAX functions.
  - Figma: Layout and UI designs for logos and card visuals.
-### Methodology
 
- 
  <img width="1460" height="1030" alt="Finance model" src="https://github.com/user-attachments/assets/6198d341-e686-413f-8af4-faff1e98ba09" />
  
  ## Execuive Summary
