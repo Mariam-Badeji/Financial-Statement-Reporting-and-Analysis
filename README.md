@@ -10,7 +10,6 @@ Insights and recommendations are provided on the following key areas:
 - **Expense Analysis:** Compares actual expense earned by FinBurg with the budgeted expense, analyzed across different clients and account categories
 - **Transaction Analysis:** Evaluated how much FinBurg transact and with what client
 
-An interactive Power BI dashboard can be viewed here: https://app.powerbi.com/groups/me/reports/2f5f3582-efdd-47b6-b874-d872b9a119ed/207b1c0c92d0c0012c87?experience=power-bi
 
  ## Data Modeling and Structure
  Data provided for analysis was grouped into three main sheets:
